@@ -7,6 +7,7 @@
 * Assistant instructor: Natasha Watkins
 * Dates: 4th--7th June
 * Class times: 9:30 am--12 noon
+* Location: TI Amsterdam
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jstac/tinbergen_mini_course.git/master)
